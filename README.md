@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me on insta: @aroua_tlh
+- Linkedin: https://www.linkedin.com/in/aroua-t/
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: NASA Still Uses 1970s Programs in their Spacecraft. 
 <!---
